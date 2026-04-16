@@ -1,7 +1,7 @@
 # ASHE
 <!-- badges: start -->
 [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html)
-![](https://img.shields.io/github/last-commit/louis-heraut/ASHE)
+![](https://img.shields.io/github/last-commit/lou-heraut/ASHE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
 <!-- badges: end -->
 
@@ -16,7 +16,7 @@ This project was carried out for National Research Institute for Agriculture, Fo
 For latest development version
 
 ``` r
-remotes::install_github('louis-heraut/ASHE')
+remotes::install_github('lou-heraut/ASHE')
 ```
 
 
@@ -26,7 +26,7 @@ remotes::install_github('louis-heraut/ASHE')
 
 ## FAQ
 📬 — **I would like an upgrade / I have a question / Need to reach me**  
-Feel free to [open an issue](https://github.com/louis-heraut/ASHE/issues) ! I’m actively maintaining this project, so I’ll do my best to respond quickly.  
+Feel free to [open an issue](https://github.com/lou-heraut/ASHE/issues) ! I’m actively maintaining this project, so I’ll do my best to respond quickly.  
 I’m also reachable on my institutional INRAE [email](mailto:louis.heraut@inrae.fr?subject=%5BASHE%5D) for more in-depth discussions.
 
 🛠️ — **I found a bug**  
@@ -35,9 +35,9 @@ I’m also reachable on my institutional INRAE [email](mailto:louis.heraut@inrae
 - *Best Solution* : Fix the issue and submit a pull request. This is the fastest way to get a bug fixed.
 
 🚀 — **Want to contribute ?**  
-If you don't know where to start, [open an issue](https://github.com/louis-heraut/ASHE/issues).
+If you don't know where to start, [open an issue](https://github.com/lou-heraut/ASHE/issues).
 
-If you want to try by yourself, why not start by also [opening an issue](https://github.com/louis-heraut/ASHE/issues) to let me know you're working on something ? Then:
+If you want to try by yourself, why not start by also [opening an issue](https://github.com/lou-heraut/ASHE/issues) to let me know you're working on something ? Then:
 
 - Fork this repository  
 - Clone your fork locally and make changes (or even better, create a new branch for your modifications)
